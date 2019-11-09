@@ -1,7 +1,7 @@
 # Statistic-study-notes
 # 李航统计学习方法（第二版）的学习笔记，包括：  
 ## 1、每章重点数学公式的手动推导  
-
+<br>均为手写然后扫描成图片，字迹不工整还望谅解，之后有时间会用Latex修正
 -   [1.第一章数学公式推导](#1第一章数学公式推导)
     -   [1.1 极大似然估计推导](#11极大似然估计推导)
     -   [1.2 贝叶斯估计推导](#12贝叶斯估计推导)
@@ -31,15 +31,16 @@
 ### 第6章 最大熵模型（11.10完）  
 
 ## 3、学习笔记汇总  
-### 第1章学习笔记  
-### 第2章学习笔记  
-### 第3章学习笔记  
-### 第4章学习笔记  
-### 第5章学习笔记  
-### 第6章学习笔记  
+<br>学习笔记均为自己学习过程中记录在笔记本上然后拍照扫描成pdf
+### [第1章学习笔记](https://github.com/kingsunfather/Statistic-study-notes/blob/master/notes/chapter1.pdf)
+### [第2章学习笔记](https://github.com/kingsunfather/Statistic-study-notes/blob/master/notes/chapter2.pdf)
+### [第3章学习笔记](https://github.com/kingsunfather/Statistic-study-notes/blob/master/notes/chapter3.pdf)  
+### [第4章学习笔记](https://github.com/kingsunfather/Statistic-study-notes/blob/master/notes/chapter4.pdf)  
+### [第5章学习笔记](https://github.com/kingsunfather/Statistic-study-notes/blob/master/notes/chapter5.pdf)  
+### [第6章学习笔记](https://github.com/kingsunfather/Statistic-study-notes/blob/master/notes/chapter6.pdf)
 
 ## 4、每章节的课后习题实现   
-
+<br>接下来每周都会定时更新课后习题的实现
 
 ## 1第一章数学公式推导
 
