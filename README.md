@@ -1,12 +1,13 @@
 # Statistic-study-notes
 # 李航统计学习方法（第二版）的学习笔记，包括：  
 ## 1、每章重点数学公式的手动推导  
+
 -   [1.第一章数学公式推导](#1第一章数学公式推导)
     -   [1.1 极大似然估计推导](#11极大似然估计推导)
     -   [1.2 贝叶斯估计推导](#12贝叶斯估计推导)
-    -   [1.3 Hoeffding与泛化误差上界推导](#13Hoeffding与泛化误差上界推导)
+    -   [1.3 利用Hoeffding推导泛化误差上界](#13利用Hoeffding推导泛化误差上界)
 -   [2.第二章数学公式推导](#2第二章数学公式推导)
-    -   [2.1 Novikoff算法的收敛性证明](#21Novikoff算法的收敛性证明)  
+    -   [2.1 算法的收敛性证明Novikoff](#21算法的收敛性证明Novikoff)  
 -   [3.第三章数学公式推导](#3第三章数学公式推导)    
     -   3.1 无数学推导，偏重算法实现-KNN  
 -   [4.第四章数学公式推导](#4第四章数学公式推导)
@@ -38,4 +39,73 @@
 ### 第6章学习笔记  
 
 ## 4、每章节的课后习题实现   
+
+
+## 1第一章数学公式推导
+
+### 1.1极大似然估计推导  
+
+![](/docImage/maximum_likelihood_estimation.jpg)   
+
+### 1.2贝叶斯估计推导
+
+![](/docImage/bayesian_estimation.jpg)  
+
+
+### 1.3利用Hoeffding推导泛化误差上界  
+
+![](/docImage/hoeffding1.jpg)  
+
+![](/docImage/hoeffding2.jpg)  
+ 
+## 2第二章数学公式推导  
+
+### 2.1算法的收敛性证明Novikoff  
+
+![](/docImage/Novikoff1.jpg)  
+![](/docImage/Novikoff2.jpg)  
+![](/docImage/Novikoff3.jpg)  
+
+## 3第三章数学公式推导
+
+## 4第四章数学公式推导
+
+### 4.1用极大似然法估计朴素贝叶斯参数
+![](/docImage/mle_naive_bayes.jpg)  
+
+### 4.2用贝叶斯估计法朴素贝叶斯参数
+![](/docImage/bayes_naive_bayes1.jpg)  
+![](/docImage/bayes_naive_bayes2.jpg)  
+
+### 4.3证明后验概率最大化即期望风险最小化
+![](/docImage/poster_prob1.jpg)  
+![](/docImage/poster_prob2.jpg)  
+
+## 5第五章数学公式推导
+
+## 6第六章数学公式推导
+
+### 6.1最大熵模型的数学推导
+![](/docImage/maximum_entropy1.jpg) 
+![](/docImage/maximum_entropy2.jpg) 
+
+### 6.2拉格朗日对偶性问题的数学推导
+![](/docImage/lagrange_duality1.jpg) 
+![](/docImage/lagrange_duality2.jpg) 
+![](/docImage/lagrange_duality3.jpg) 
+
+### 6.3改进的迭代尺度法数学推导
+![](/docImage/iterative_method1.jpg) 
+![](/docImage/iterative_method2.jpg) 
+![](/docImage/iterative_method3.jpg) 
+
+
+
+
+
+
+
+
+
+
 
