@@ -23,13 +23,18 @@
       <!-- /TOC -->  
 
 ## 2、每章算法的Python自实现    
-### 第2章 感知机模型（使用Iris数据集验证）  
+[数据集为iris.csv（带Header)](https://github.com/kingsunfather/Statistic-study-notes/blob/master/codes/iris.csv)
+### 第2章 感知机模型（使用Iris数据集）  
 源代码[MyPerceptron.py](https://github.com/kingsunfather/Statistic-study-notes/blob/master/codes/MyPerceptron.py)
-### 第3章 KNN模型（线性 与 KD树两种实现）  
-### 第4章 朴素贝叶斯模型  
-### 第5章 决策树模型   
-### 第6章 逻辑斯提回归模型  
-### 第6章 最大熵模型（11.10完）  
+### 第3章 KNN模型（线性-使用Iris数据集 与 KD树-有点问题..修改后再上传）  
+源代码[MyPerceptron.py](https://github.com/kingsunfather/Statistic-study-notes/blob/master/codes/MyKNN.py)
+### 第4章 朴素贝叶斯模型（使用Iris数据集）
+源代码[MyPerceptron.py](https://github.com/kingsunfather/Statistic-study-notes/blob/master/codes/MyNaiveBayes.py)
+### 第5章 决策树模型（使用Iris数据集）
+源代码[MyPerceptron.py](https://github.com/kingsunfather/Statistic-study-notes/blob/master/codes/MyDecisionTree.py)
+### 第6章 逻辑斯提回归模型（使用Iris数据集，采用梯度下降方法）
+源代码[MyPerceptron.py](https://github.com/kingsunfather/Statistic-study-notes/blob/master/codes/MyLogisticRegression.py)
+### 第6章 最大熵模型（11.10完成）  
 
 ## 3、学习笔记汇总  
 <br>学习笔记均为自己学习过程中记录在笔记本上然后拍照扫描成pdf
