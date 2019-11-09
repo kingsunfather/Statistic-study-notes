@@ -24,6 +24,7 @@
 
 ## 2、每章算法的Python自实现    
 ### 第2章 感知机模型（使用Iris数据集验证）  
+源代码[MyPerceptron.py](https://github.com/kingsunfather/Statistic-study-notes/blob/master/codes/MyPerceptron.py)
 ### 第3章 KNN模型（线性 与 KD树两种实现）  
 ### 第4章 朴素贝叶斯模型  
 ### 第5章 决策树模型   
