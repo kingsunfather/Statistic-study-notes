@@ -34,7 +34,8 @@
 源代码[MyPerceptron.py](https://github.com/kingsunfather/Statistic-study-notes/blob/master/codes/MyDecisionTree.py)
 ### 第6章 逻辑斯提回归模型（使用Iris数据集，采用梯度下降方法）
 源代码[MyPerceptron.py](https://github.com/kingsunfather/Statistic-study-notes/blob/master/codes/MyLogisticRegression.py)
-### 第6章 最大熵模型（11.10完成）  
+### 第6章 最大熵模型(使用Iris数据集)
+源代码[MyMaxEnt.py](https://github.com/kingsunfather/Statistic-study-notes/blob/master/codes/MyMaxEnt.py)
 
 ## 3、学习笔记汇总  
 <br>学习笔记均为自己学习过程中记录在笔记本上然后拍照扫描成pdf
