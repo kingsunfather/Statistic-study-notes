@@ -20,6 +20,10 @@
     -   [6.1 最大熵模型的数学推导](#61最大熵模型的数学推导)
     -   [6.2 拉格朗日对偶性问题的数学推导](#62拉格朗日对偶性问题的数学推导)
     -   [6.3 改进的迭代尺度法数学推导](#63改进的迭代尺度法数学推导)
+-   [7.第七章数学公式推导](#7第七章数学公式推导)
+    -   [7.1 软间隔最大化对偶问题](#71软间隔最大化对偶问题)
+    -   [7.2 证明最大间隔分离超平面存在唯一性](#72证明最大间隔分离超平面存在唯一性)
+
       <!-- /TOC -->  
 
 ## 2、每章算法的Python自实现    
@@ -36,6 +40,8 @@
 源代码[MyPerceptron.py](https://github.com/kingsunfather/Statistic-study-notes/blob/master/codes/MyLogisticRegression.py)
 ### 第6章 最大熵模型(使用Iris数据集)
 源代码[MyMaxEnt.py](https://github.com/kingsunfather/Statistic-study-notes/blob/master/codes/MyMaxEnt.py)
+### 第7章 SVM(使用Iris数据集)
+源代码[MySVM.py](https://github.com/kingsunfather/Statistic-study-notes/blob/master/codes/MySVM.py)
 
 ## 3、学习笔记汇总  
 <br>学习笔记均为自己学习过程中记录在笔记本上然后拍照扫描成pdf
@@ -45,6 +51,7 @@
 ### [第4章学习笔记](https://github.com/kingsunfather/Statistic-study-notes/blob/master/notes/chapter4.pdf)  
 ### [第5章学习笔记](https://github.com/kingsunfather/Statistic-study-notes/blob/master/notes/chapter5.pdf)  
 ### [第6章学习笔记](https://github.com/kingsunfather/Statistic-study-notes/blob/master/notes/chapter6.pdf)
+### [第7章学习笔记](https://github.com/kingsunfather/Statistic-study-notes/blob/master/notes/chapter7.pdf)
 
 ## 4、每章节的课后习题实现   
 <br>接下来每周都会定时更新课后习题的实现
@@ -107,6 +114,18 @@
 ![](/docImage/iterative_method2.jpg) 
 ![](/docImage/iterative_method3.jpg) 
 
+## 7第七章数学公式推导  
+
+## 7.1软间隔最大化对偶问题
+![](/docImage/Soft_interval_maximization_dual1.jpg) 
+![](/docImage/Soft_interval_maximization_dual2.jpg) 
+![](/docImage/Soft_interval_maximization_dual3.jpg) 
+
+## 7.2证明最大间隔分离超平面存在唯一性
+![](/docImage/Maximum_separation_hyperplane1.jpg) 
+![](/docImage/Maximum_separation_hyperplane2.jpg) 
+![](/docImage/Maximum_separation_hyperplane3.jpg) 
+![](/docImage/Maximum_separation_hyperplane4.jpg) 
 
 
 
