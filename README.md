@@ -23,6 +23,9 @@
 -   [7.第七章数学公式推导](#7第七章数学公式推导)
     -   [7.1 软间隔最大化对偶问题](#71软间隔最大化对偶问题)
     -   [7.2 证明最大间隔分离超平面存在唯一性](#72证明最大间隔分离超平面存在唯一性)
+-   [8.第八章数学公式推导](#8第八章数学公式推导)
+    -   [8.1 证明AdaBoost是前向分步加法算法的特例](#81证明AdaBoost是前向分步加法算法的特例)
+    -   [8.2 证明AdaBoost的训练误差界](#82证明AdaBoost的训练误差界)
 
       <!-- /TOC -->  
 
@@ -41,17 +44,21 @@
 ### 第6章 最大熵模型(使用Iris数据集)
 源代码[MyMaxEnt.py](https://github.com/kingsunfather/Statistic-study-notes/blob/master/codes/MyMaxEnt.py)
 ### 第7章 SVM(使用Iris数据集)
-源代码[MySVM.py](https://github.com/kingsunfather/Statistic-study-notes/blob/master/codes/MySVM.py)
+源代码[MySVM.py](https://github.com/kingsunfather/Statistic-study-notes/blob/master/codes/MySVM.py)  
+### 第8章 AdaBoost(使用Iris数据集)
+源代码[MyAdaBoost.py](https://github.com/kingsunfather/Statistic-study-notes/blob/master/codes/MyAdaBoost.py)
 
 ## 3、学习笔记汇总  
 <br>学习笔记均为自己学习过程中记录在笔记本上然后拍照扫描成pdf
-### [第1章学习笔记](https://github.com/kingsunfather/Statistic-study-notes/blob/master/notes/chapter1.pdf)
-### [第2章学习笔记](https://github.com/kingsunfather/Statistic-study-notes/blob/master/notes/chapter2.pdf)
+### [第1章学习笔记](https://github.com/kingsunfather/Statistic-study-notes/blob/master/notes/chapter1.pdf)  
+### [第2章学习笔记](https://github.com/kingsunfather/Statistic-study-notes/blob/master/notes/chapter2.pdf)  
 ### [第3章学习笔记](https://github.com/kingsunfather/Statistic-study-notes/blob/master/notes/chapter3.pdf)  
 ### [第4章学习笔记](https://github.com/kingsunfather/Statistic-study-notes/blob/master/notes/chapter4.pdf)  
 ### [第5章学习笔记](https://github.com/kingsunfather/Statistic-study-notes/blob/master/notes/chapter5.pdf)  
-### [第6章学习笔记](https://github.com/kingsunfather/Statistic-study-notes/blob/master/notes/chapter6.pdf)
-### [第7章学习笔记](https://github.com/kingsunfather/Statistic-study-notes/blob/master/notes/chapter7.pdf)
+### [第6章学习笔记](https://github.com/kingsunfather/Statistic-study-notes/blob/master/notes/chapter6.pdf)  
+### [第7章学习笔记](https://github.com/kingsunfather/Statistic-study-notes/blob/master/notes/chapter7.pdf)  
+### [第8章学习笔记](https://github.com/kingsunfather/Statistic-study-notes/blob/master/notes/chapter8.pdf)  
+
 
 ## 4、每章节的课后习题实现   
 <br>接下来每周都会定时更新课后习题的实现
@@ -116,16 +123,33 @@
 
 ## 7第七章数学公式推导  
 
-## 7.1软间隔最大化对偶问题
+### 7.1软间隔最大化对偶问题
 ![](/docImage/Soft_interval_maximization_dual1.jpg) 
 ![](/docImage/Soft_interval_maximization_dual2.jpg) 
 ![](/docImage/Soft_interval_maximization_dual3.jpg) 
 
-## 7.2证明最大间隔分离超平面存在唯一性
+### 7.2证明最大间隔分离超平面存在唯一性
 ![](/docImage/Maximum_separation_hyperplane1.jpg) 
 ![](/docImage/Maximum_separation_hyperplane2.jpg) 
 ![](/docImage/Maximum_separation_hyperplane3.jpg) 
 ![](/docImage/Maximum_separation_hyperplane4.jpg) 
+
+## 8第八章数学公式推导  
+
+### 8.1证明AdaBoost是前向分步加法算法的特例  
+![](/docImage/8_1_1.jpg) 
+![](/docImage/8_1_2.jpg) 
+![](/docImage/8_1_3.jpg) 
+
+### 8.2 证明AdaBoost的训练误差界  
+![](/docImage/8_2_1.jpg) 
+![](/docImage/8_2_2.jpg) 
+![](/docImage/8_2_3.jpg) 
+![](/docImage/8_2_4.jpg) 
+
+    
+    
+    
 
 
 
