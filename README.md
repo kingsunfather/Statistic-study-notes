@@ -26,7 +26,10 @@
 -   [8.第八章数学公式推导](#8第八章数学公式推导)
     -   [8.1 证明AdaBoost是前向分步加法算法的特例](#81证明AdaBoost是前向分步加法算法的特例)
     -   [8.2 证明AdaBoost的训练误差界](#82证明AdaBoost的训练误差界)
-
+-   [9.第九章数学公式推导](#9第九章数学公式推导)  
+    -   [9.1 EM算法的导出](#91EM算法的导出)  
+    -   [9.2 用EM算法估计高斯模混合模型](#92用EM算法估计高斯模混合模型)  
+    
       <!-- /TOC -->  
 
 ## 2、每章算法的Python自实现    
@@ -46,7 +49,9 @@
 ### 第7章 SVM(使用Iris数据集)
 源代码[MySVM.py](https://github.com/kingsunfather/Statistic-study-notes/blob/master/codes/MySVM.py)  
 ### 第8章 AdaBoost(使用Iris数据集)
-源代码[MyAdaBoost.py](https://github.com/kingsunfather/Statistic-study-notes/blob/master/codes/MyAdaBoost.py)
+源代码[MyAdaBoost.py](https://github.com/kingsunfather/Statistic-study-notes/blob/master/codes/MyAdaBoost.py)  
+### 第9章 EM算法(使用自己随机生成的符合高斯分布的数据)
+源代码[MyEM.py](https://github.com/kingsunfather/Statistic-study-notes/blob/master/codes/MyEM.py)
 
 ## 3、学习笔记汇总  
 <br>学习笔记均为自己学习过程中记录在笔记本上然后拍照扫描成pdf
@@ -58,6 +63,7 @@
 ### [第6章学习笔记](https://github.com/kingsunfather/Statistic-study-notes/blob/master/notes/chapter6.pdf)  
 ### [第7章学习笔记](https://github.com/kingsunfather/Statistic-study-notes/blob/master/notes/chapter7.pdf)  
 ### [第8章学习笔记](https://github.com/kingsunfather/Statistic-study-notes/blob/master/notes/chapter8.pdf)  
+### [第9章学习笔记](https://github.com/kingsunfather/Statistic-study-notes/blob/master/notes/chapter9.pdf)  
 
 
 ## 4、每章节的课后习题实现   
@@ -147,7 +153,16 @@
 ![](/docImage/8_2_3.jpg) 
 ![](/docImage/8_2_4.jpg) 
 
-    
+## 9第九章数学公式推导  
+### 9.1 EM算法的导出  
+![](/docImage/9_1_1.jpg) 
+![](/docImage/9_1_2.jpg) 
+
+### 9.2 用EM算法估计高斯模混合模型  
+![](/docImage/9_2_1.jpg) 
+![](/docImage/9_2_2.jpg) 
+![](/docImage/9_2_3.jpg) 
+
     
     
 
