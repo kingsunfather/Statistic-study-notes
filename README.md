@@ -29,6 +29,9 @@
 -   [9.第九章数学公式推导](#9第九章数学公式推导)  
     -   [9.1 EM算法的导出](#91EM算法的导出)  
     -   [9.2 用EM算法估计高斯模混合模型](#92用EM算法估计高斯模混合模型)  
+-   [10.第十章数学公式推导](#10第十章数学公式推导)  
+    -   [10.1 前向算法两个公式的证明](#101前向算法两个公式的证明)  
+    -   [10.2 维特比算法推导](#102维特比算法推导)  
     
       <!-- /TOC -->  
 
@@ -51,7 +54,9 @@
 ### 第8章 AdaBoost(使用Iris数据集)
 源代码[MyAdaBoost.py](https://github.com/kingsunfather/Statistic-study-notes/blob/master/codes/MyAdaBoost.py)  
 ### 第9章 EM算法(使用自己随机生成的符合高斯分布的数据)
-源代码[MyEM.py](https://github.com/kingsunfather/Statistic-study-notes/blob/master/codes/MyEM.py)
+源代码[MyEM.py](https://github.com/kingsunfather/Statistic-study-notes/blob/master/codes/MyEM.py)  
+### 第10章 HMM算法(使用人民日报语料库进行训练,对输入的文本进行分词，12.8前完成)
+源代码[MyHMM.py](https://github.com/kingsunfather/Statistic-study-notes/blob/master/codes/MyHMM.py)  
 
 ## 3、学习笔记汇总  
 <br>学习笔记均为自己学习过程中记录在笔记本上然后拍照扫描成pdf
@@ -64,6 +69,7 @@
 ### [第7章学习笔记](https://github.com/kingsunfather/Statistic-study-notes/blob/master/notes/chapter7.pdf)  
 ### [第8章学习笔记](https://github.com/kingsunfather/Statistic-study-notes/blob/master/notes/chapter8.pdf)  
 ### [第9章学习笔记](https://github.com/kingsunfather/Statistic-study-notes/blob/master/notes/chapter9.pdf)  
+### [第10章学习笔记](https://github.com/kingsunfather/Statistic-study-notes/blob/master/notes/chapter10.pdf)  
 
 
 ## 4、每章节的课后习题实现   
@@ -163,7 +169,13 @@
 ![](/docImage/9_2_2.jpg) 
 ![](/docImage/9_2_3.jpg) 
 
-    
+## 10.第十章数学公式推导  
+
+### 10.1 前向算法两个公式的证明  
+![](/docImage/10_1_1.jpg) 
+
+### 10.2 维特比算法推导  
+![](/docImage/10_2_1.jpg) 
     
 
 
