@@ -32,6 +32,9 @@
 -   [10.第十章数学公式推导](#10第十章数学公式推导)  
     -   [10.1 前向算法两个公式的证明](#101前向算法两个公式的证明)  
     -   [10.2 维特比算法推导](#102维特比算法推导)  
+-   [11.第十一章数学公式推导](#11第十一章数学公式推导)  
+    -   [11.1 条件随机场的矩阵形式推导](#111条件随机场的矩阵形式推导)  
+    -   [11.2 牛顿法和拟牛顿法的推导](#112牛顿法和拟牛顿法的推导) 
     
       <!-- /TOC -->  
 
@@ -70,6 +73,7 @@
 ### [第8章学习笔记](https://github.com/kingsunfather/Statistic-study-notes/blob/master/notes/chapter8.pdf)  
 ### [第9章学习笔记](https://github.com/kingsunfather/Statistic-study-notes/blob/master/notes/chapter9.pdf)  
 ### [第10章学习笔记](https://github.com/kingsunfather/Statistic-study-notes/blob/master/notes/chapter10.pdf)  
+### [第11章学习笔记](https://github.com/kingsunfather/Statistic-study-notes/blob/master/notes/chapter11.pdf)  
 
 
 ## 4、每章节的课后习题实现   
@@ -176,6 +180,17 @@
 
 ### 10.2 维特比算法推导  
 ![](/docImage/10_2_1.jpg) 
+
+## 11.第十一章数学公式推导   
+### 11.1 条件随机场的矩阵形式推导  
+![](/docImage/11_1_1.jpg) 
+![](/docImage/11_1_1.jpg) 
+### 11.2 牛顿法和拟牛顿法的推导   
+![](/docImage/11_2_1.jpg) 
+![](/docImage/11_2_2.jpg) 
+![](/docImage/11_2_3.jpg) 
+    
+    
     
 
 
